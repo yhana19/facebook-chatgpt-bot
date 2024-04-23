@@ -1,4 +1,5 @@
 # facebook-chatgpt-bot
+📢 Project Orion chatbot is now open source fork it at [https://github.com/mrepol742/project-orion](https://github.com/mrepol742/project-orion)
 
 ## Features
 
